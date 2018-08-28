@@ -2,268 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb92d68e-f1ac-445e-89f8-35a125e2ad06" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/web/static/css/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/css/master.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/css/new-master.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/1_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/arrowB.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-7.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-8.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/1-9.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-4.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-5.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-6.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/2-7.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article10_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article12_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article12_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article3_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article4_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article5_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article6_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article7_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article7_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article7_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article7_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/article/article8_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/b-arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/baner-resolution.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner-aboutus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner-article.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner-join.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner-middle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner-news.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner-product.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/btn_关闭.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/float.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/half.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/knowledge/qbi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/knowledge/red.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/knowledge/root.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/knowledge238/qbi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/knowledge238/red.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/knowledge238/root.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news-art-0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news-art-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news-art-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news/avlSdk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news/avlsec.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news/qualcomm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news/teil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news238/avlSdk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news238/avlsec.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news238/qualcomm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/news238/teil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/number-r.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/number.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/pic_dialog_背景图.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/pic_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/pic_提交成功.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report/gpsystem.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report/testService.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report/tianxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report/weChat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report/zipper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report238/gpsystem.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report238/testService.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report238/tianxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report238/weChat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/report238/zipper.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/tb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/weixin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/whitebook1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/whitebook2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/whitebook3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/whitebook4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_反病毒引擎AVL-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_反病毒引擎AVL-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全咨询-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全咨询-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全培训-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全培训-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全评估-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全评估-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_应急响应-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_应急响应-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_应用沙盒-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_应用沙盒-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_态势感知-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_态势感知-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_探优-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_探优-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_探源-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_探源-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_探针-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_探针-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_漏洞动态防御-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_漏洞动态防御-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_漏洞检测与修复-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_漏洞检测与修复-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_等保合规-渐变.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_等保合规-线描.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/关于.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/加入.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/加入我们.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/动态.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/团队1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/团队2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/团队3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/团队4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/团队5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/文章内容.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/新零售.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/新零售2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/智能pos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/智能pos2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/聚合支付.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/img/聚合支付2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/static/js/new-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/article/article9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/join.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/knowledge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/perception.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/solution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/web/templates/whitepaper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/web/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -291,21 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="75" selection-start-line="62" selection-start-column="75" selection-end-line="62" selection-end-column="75" />
-              <folding>
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="573">
+              <caret line="74" column="74" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -442,30 +168,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HomePage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
+              <item name="niShuiHan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niShuiHan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomePage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
+              <item name="niShuiHan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niShuiHan" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HomePage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
+              <item name="niShuiHan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niShuiHan" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niShuiHan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niShuiHan" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -559,11 +292,12 @@
       <workItem from="1534988789488" duration="38729000" />
       <workItem from="1535333748984" duration="21188000" />
       <workItem from="1535441398473" duration="9019000" />
+      <workItem from="1535456580409" duration="931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75432000" />
+    <option name="totallyTimeSpent" value="76363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
@@ -609,251 +343,60 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resources/web/templates/article/gpSystem分析报告-发布定稿.htm" />
     <entry file="file://$PROJECT_DIR$/resources/web/templates/article/gpSystem分析报告-发布定稿.mhtml" />
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article4_17.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article4_35.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/1-1.webp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article8_7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article8_15.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article4_17.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article4_35.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/1-1.webp" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article8_7.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article8_15.png" />
     <entry file="file://$PROJECT_DIR$/resources/web/templates/article/aa.html" />
     <entry file="file://$PROJECT_DIR$/resources/web/static/img/article/article3_1.jpg" />
     <entry file="file://$PROJECT_DIR$/resources/web/templates/whitebook.html" />
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/top.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/top.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/js/new-index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全咨询-线描.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_态势感知-线描.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_态势感知-渐变.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全咨询-渐变.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/top.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/top.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/js/new-index.js" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全咨询-线描.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_态势感知-线描.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_态势感知-渐变.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/产品与服务icon2_安全咨询-渐变.png" />
     <entry file="file://$PROJECT_DIR$/resources/web/templates/article.html" />
-    <entry file="file://$PROJECT_DIR$/resources/web/static/css/new-master.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/web/static/css/new-master.css" />
     <entry file="file://$PROJECT_DIR$/resources/web/templates/hotArticle.html" />
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/number-r.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/img/tb.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/css/master.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="1444" column="18" selection-start-line="1444" selection-start-column="18" selection-end-line="1444" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1215" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="266" column="18" lean-forward="true" selection-start-line="266" selection-start-column="18" selection-end-line="266" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
-          <caret line="46" column="111" selection-start-line="46" selection-start-column="111" selection-end-line="46" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/knowledge.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-738">
-          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/perception.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-473">
-          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/news.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="231" column="37" selection-start-line="231" selection-start-column="26" selection-end-line="231" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="132" column="38" selection-start-line="132" selection-start-column="38" selection-end-line="132" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/solution.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-516">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/whitepaper.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="98" column="31" lean-forward="true" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="105" column="68" selection-start-line="105" selection-start-column="68" selection-end-line="105" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="193" column="68" selection-start-line="193" selection-start-column="68" selection-end-line="193" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="216" column="68" selection-start-line="216" selection-start-column="68" selection-end-line="216" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="165" column="68" selection-start-line="165" selection-start-column="68" selection-end-line="165" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4215">
-          <caret line="281" column="68" selection-start-line="281" selection-start-column="68" selection-end-line="281" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3900">
-          <caret line="260" column="68" selection-start-line="260" selection-start-column="68" selection-end-line="260" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2595">
-          <caret line="173" column="68" selection-start-line="173" selection-start-column="68" selection-end-line="173" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
-          <caret line="190" column="39" selection-start-line="190" selection-start-column="39" selection-end-line="190" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2670">
-          <caret line="178" column="38" selection-start-line="178" selection-start-column="38" selection-end-line="178" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="124" column="68" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="120" column="39" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/number-r.jpg" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/img/tb.png" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/css/master.css" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/about.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/join.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/knowledge.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/perception.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/news.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/product.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/report.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/solution.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/whitepaper.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article10.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article8.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article6.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article5.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article4.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article3.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article2.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article1.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article9.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article7.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article11.html" />
+    <entry file="file://$PROJECT_DIR$/resources/web/templates/article/article12.html" />
     <entry file="file://$PROJECT_DIR$/resources/web/static/js/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/js/bootstrap/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/js/aa">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/js/json.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/web/static/aa.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/web/static/js/bootstrap/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/js/aa" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/js/json.json" />
+    <entry file="file://$PROJECT_DIR$/resources/web/static/aa.json" />
     <entry file="file://$PROJECT_DIR$/resources/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="75" selection-start-line="62" selection-start-column="75" selection-end-line="62" selection-end-column="75" />
-          <folding>
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#1;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#2;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#3;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#4;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#5;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="573">
+          <caret line="74" column="74" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
         </state>
       </provider>
     </entry>
