@@ -56,12 +56,12 @@ $("#xueqing").on("click", function () {
 function search(input) {
     let jDom = $("#table tbody");
     jDom.html("");
-    let type=$("[name='type']:checked").val();
+    let type = $("[name='type']:checked").val();
     let list;
-    if(type==="wuqing"){
-        list=wuqing;
-    }else {
-        list=xueqing;
+    if (type === "wuqing") {
+        list = wuqing;
+    } else {
+        list = xueqing;
     }
     list.forEach(function (value) {
         if (input !== undefined) {
@@ -70,14 +70,21 @@ function search(input) {
             }
         }
         let html = "<tr>";
-        $.each(value, function (k, v) {
-            if (k === "gift") {
-                html += "<td class=\"td_v size-07 width-25 center\">" + v + "</td>";
-            }
-            else {
-                html += "<td class=\"td_v size-07 width-15 center\" data-key=\"" + k + "\">" + v + "</td>";
-            }
-        });
+        if (type !== "wuqing") {
+            html += "<td class=\"td_v size-07 width-25 center\">" + value.gift + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"huajiangli\">" + value.huajiangli + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"yexueqing\">" + value.yexueqing + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"jimier\">" + value.jimier + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"lishishi\">" + value.lishishi + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"wenrou\">" + value.wenrou + "</td>";
+        } else {
+            html += "<td class=\"td_v size-07 width-25 center\">" + value.gift + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"无情\">" + value.无情 + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"叶问舟\">" + value.叶问舟 + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"方应看\">" + value.方应看 + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"顾惜朝\">" + value.顾惜朝 + "</td>";
+            html += "<td class=\"td_v size-07 width-15 center\" data-key=\"燕无归\">" + value.燕无归 + "</td>";
+        }
         html += "</tr>";
         jDom.append(html);
     });
